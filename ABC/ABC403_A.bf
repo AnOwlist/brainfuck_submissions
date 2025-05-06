@@ -8,7 +8,7 @@ let S be 0
 >>>+>+>+>+>+> (number of digits: 5)
 
 input a nonnegative number into A
->>>+>+>+>+>+ (number of digits: 3)
+>>>+>+>+>+>+ (number of digits: 5)
 >>,+[----- ----- -[<+++++[->----<]>--[
 [-<+>]+++++[-<--->]<[<]>->[[-<+>]>],+<]]>]<<<[<]
 
