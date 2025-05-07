@@ -19,7 +19,7 @@ int main() {
         }
         new_line += c;
       } else
-        space = (c == ' ');
+        space |= (c == ' ');
     }
 
     if (new_line.size())
